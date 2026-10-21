@@ -1,0 +1,6 @@
+flask
+python-telegram-bot
+requests
+urllib3
+httpx[socks]
+PySocks
